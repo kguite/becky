@@ -209,7 +209,7 @@ a {
     box-shadow: none;
     text-transform: uppercase;
     outline: none !important;
-    background-color: #4e93e6;
+    background-color: #a53324;
     box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.2);
     border-radius: 2px;
     min-width: 140px;
@@ -320,7 +320,7 @@ a {
 }
 
 .badge-dark {
-    background: #4e93e6 !important;
+    background: #a53324 !important;
 }
 
 
@@ -491,7 +491,7 @@ a {
 
 .navbar-nav .nav-link.active {
     opacity: 1;
-    color: #4e93e6 !important;
+    color: #a53324 !important;
 }
 
 .nav-wrapper {
@@ -796,7 +796,7 @@ a {
 }
 
 .about-desc-social li a:hover {
-    color: #4e93e6;
+    color: #a53324;
 }
 
 /* ---------------------------------------------- 
@@ -896,7 +896,7 @@ a {
 }
 
 .swiper-pagination-bullet {
-    background-color: #4e93e6;
+    background-color: #a53324;
 }
 
 /* ---------------------------------------------- 
@@ -1035,7 +1035,7 @@ a {
          -o-transform: rotate3d(0, 1, 0, 180deg);
             transform: rotate3d(0, 1, 0, 180deg);
     z-index: 1;
-    background: #4e93e6;
+    background: #a53324;
     -webkit-transform-style: inherit;
     -moz-transform-style: inherit;
     -ms-transform-style: inherit;
@@ -1131,7 +1131,7 @@ a {
 }
 
 .progress-bar {
-    background: #4e93e6 !important;
+    background: #a53324 !important;
     opacity: 0.8;
 }
 
@@ -1304,7 +1304,7 @@ a {
 }
 
 .swiper-pagination-progressbar-fill {
-    background-color: #4e93e6 !important;
+    background-color: #a53324 !important;
 }
 
 .blog-cat {
@@ -1346,10 +1346,10 @@ h4.media-heading {
 .blog-detail-content blockquote {
     font-size: 14px;
     background: #f9f9f9;
-    border-color: #4e93e6;
+    border-color: #a53324;
     padding: 5px 10px;
     border-radius: 4px;
-    border-left: 5px solid #4e93e6;
+    border-left: 5px solid #a53324;
 }
 
 .blog-detail-content img {
@@ -1386,7 +1386,7 @@ h4.media-heading {
     padding: 3px 15px;
     color: #fff;
     text-transform: capitalize;
-    background: #4e93e6;
+    background: #a53324;
     border-radius: 2px;
     margin: 15px 0;
 }
@@ -1418,7 +1418,7 @@ h4.media-heading {
 }
 
 .tags:hover {
-    background-color: #4e93e6;
+    background-color: #a53324;
     color: #ffffff;
 }
 
@@ -1449,7 +1449,7 @@ h4.media-heading {
 }
 
 .blog-nav:hover {
-    background: #4e93e6;
+    background: #a53324;
     color: #fff;
 }
 
